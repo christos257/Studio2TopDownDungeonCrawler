@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72f4105df0f49ab4e9296b53f798b207, type: 3}
+  m_Name: QuestNPC
+  m_EditorClassIdentifier: 
+  itemToSpawn: {fileID: 3997341969741269240, guid: 0b36ec7d7b64f6b4c9b91d025cc1da14,
+    type: 3}
+  minSpawn: 1
+  maxSpawn: 1
